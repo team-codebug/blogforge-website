@@ -1,4 +1,4 @@
-# BlogForge
+# BlogForge Documentation for Stakeholders
 
 A modern blog platform built with Flask, featuring AI-powered content generation, social media repurposing, and a beautiful user interface.
 
