@@ -1,6 +1,12 @@
-# BlogForge Documentation for Stakeholders
+# BlogForge Documentation
+
+**For Stakeholders and Developers**
 
 A modern blog platform built with Flask, featuring AI-powered content generation, social media repurposing, and a beautiful user interface.
+
+---
+
+> **Note**: This documentation serves both stakeholders looking for product information and developers setting up or contributing to the project. For customer-facing product details, see [PRODUCT.md](./PRODUCT.md). For technical deep-dives, see [DOCUMENT.md](./DOCUMENT.md).
 
 ## Features
 
